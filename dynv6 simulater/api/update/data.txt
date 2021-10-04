@@ -1,0 +1,1 @@
+{"token1":{"islaamkhaleed.tk":"11.22.33.44","souq-org.tk":"11.22.33.45"},"token2":{"islaamkhaleed2.tk":"11.22.33.44","souq-org2.tk":"11.22.33.45"}}
