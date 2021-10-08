@@ -3,8 +3,8 @@
 </a>
 <a href="PreventAddingUndefinedProperties.php">
     <h1>Prevent Adding Undefined Properties</h1>
-</a><a href="">
-    <h1></h1>
+</a><a href="encryption demo">
+    <h1>Encryption Demo</h1>
 </a><a href="">
     <h1></h1>
 </a><a href="">
